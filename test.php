@@ -1,6 +1,6 @@
 <?php
 
 print("hgaloefgiojseifj");
-print("hgaloefgiojseifj");
+$no = "fuck you"
 
 print("hgaloefgiojseifj");
