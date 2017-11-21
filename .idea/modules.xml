@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Wegro.iml" filepath="$PROJECT_DIR$/.idea/Wegro.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Wegro X.iml" filepath="$PROJECT_DIR$/.idea/Wegro X.iml" />
+>>>>>>> cbc92c4cb06a2451e142fdc2266b2a0416a1b9ab
     </modules>
   </component>
 </project>
