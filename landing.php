@@ -5,6 +5,6 @@
     <title>Title</title>
 </head>
 <body>
-<?php print("fuck"); ?>
+
 </body>
 </html>
